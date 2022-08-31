@@ -26,8 +26,8 @@
     - إزاحة هامشية = 1 بكسل (margin)
     - دوران الزوايا = 10 بكسل (border-radius)
     - تدرج الانتقالات = نص ثانيه لجميع التغيرات (transition)
-    - حدود = 10 بكسل صلب ولون teal
-    - `border -> 10px solid and teal color` 
+    - حدود = 1 بكسل صلب ولون teal
+    - `border -> 1px solid and teal color` 
   - عند تمرير المؤشر `(on hover)` :
     - لون الحدود `(border color)` = turquoise
 8. انسخ وسم div مع كلاس box تسع مرات
