@@ -11,6 +11,7 @@
 
 1. قم بعمل Fork
 2. افتح الـrepo في github desktop
+3. من برنامج github desktop اضغط على open in visual studio code
 1. انشئ ملف بصيغة html وملف بصيغة css واربط بينهما باستخدام (link)
 2. استخدم وسم h1 لتكتب جملة ترحيبية
 ` مثال: حياكم في لعبتي الجميلة`
